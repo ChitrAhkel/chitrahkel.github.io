@@ -1,5 +1,5 @@
-#ME
+## ME
 
-#Edu
-#Work
-#Projects
+# Edu
+# Work
+# Projects
